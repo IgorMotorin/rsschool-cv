@@ -1,5 +1,3 @@
-# [rsschool-cv](https://igormotorin.github.io/rsschool-cv/)
-
 # Igor Motorin
 # My contact info:
 
