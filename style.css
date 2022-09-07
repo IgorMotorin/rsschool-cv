@@ -1,0 +1,28 @@
+.header {
+    background-color: #53dff5;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    border-radius: 100px;
+   
+}
+
+.divj {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    }
+
+    .divp {
+        color: #ffffff;
+        font-weight: 600;
+        font-size: 30px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-transform: uppercase;
+        width: 400px;
+        height: 200px;
+        margin: 0 0;
+        margin-left: 20px;
+        justify-content: left;
+           
+    }
